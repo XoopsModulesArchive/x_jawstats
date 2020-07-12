@@ -1,0 +1,7 @@
+X JAWStats
+Development of X JAWStats is done by Dana Harris (optikool)
+
+X JAWStats XOOPS Installation:
+1. Modify config.php in the admin folder 
+2. Upload x_jawstats to modules folder
+3. Run the installer in Admin/Modules
